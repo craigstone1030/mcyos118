@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I amn a Full Stack Developer, multiple, talented, creative. 
+<h2>Rich experience in Web Development</h2>
 <!--
 **mcyos118/mcyos118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
