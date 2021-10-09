@@ -10,7 +10,15 @@
 - 😄 Pronouns: php-ninja, Ethereum-top-notch...
 - ⚡ Favorites sports: Football, Ping-pong, Basketball etc.
 
-<table><tbody><tr><td valign="top" width="100%">
+<p align="center">
+    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b64f4b46add533e35e5688fd23ae7f516b621277d8926ad728d3db8d4e0ef8f6/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d646576647265616d736f6c7574696f6e26636f6c756d6e3d37267468656d653d6f6e656461726b"><img src="https://camo.githubusercontent.com/b64f4b46add533e35e5688fd23ae7f516b621277d8926ad728d3db8d4e0ef8f6/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d646576647265616d736f6c7574696f6e26636f6c756d6e3d37267468656d653d6f6e656461726b" data-canonical-src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&amp;column=7&amp;theme=onedark" style="max-width: 100%;">
+  </a>
+</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td valign="top" width="100%">
 <div align="center">  
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/518977ed5e52020624daf41cf644046368af610f19a7b1220dd1d58377d08288/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/518977ed5e52020624daf41cf644046368af610f19a7b1220dd1d58377d08288/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="React" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" style="max-width: 100%;"></a>  
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a40a57becbe68bc3c482bdf1f209c8b091ee63f58173117037ac6aa5f96d4a72/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7675656a732d6f726967696e616c2d776f72646d61726b2e737667"><img src="https://camo.githubusercontent.com/a40a57becbe68bc3c482bdf1f209c8b091ee63f58173117037ac6aa5f96d4a72/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f7675656a732d6f726967696e616c2d776f72646d61726b2e737667" alt="Vue.js" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" style="max-width: 100%;"></a>  
