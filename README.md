@@ -1,7 +1,7 @@
 ### Hi there 👋, I am a Full Stack Developer with multiple, talented, creative. 
 <h2>Rich experience in Web Development</h2>
 
-- 🔭 I’m always with you.
+- 🔭 I will be always with you.
 - 🌱 Passionate about development and coding.
 - 👯 As the ideal candidate, I am highly motivated and focused on writing concise, replicable, readable and reusable code.
 - 🤔 Attention to detail, with a lot of common sense.
