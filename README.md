@@ -1,4 +1,4 @@
-### Hi there 👋, I am a Full Stack Developer with multiple, talented, creative. 
+### Hi there 👋, I am a Blockchain | Ethereum | Solana | token | coin Expert. 
 <h2>Rich experience in Web Development</h2>
 
 - 🔭 I will be always with you.
