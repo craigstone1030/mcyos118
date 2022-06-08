@@ -1,5 +1,5 @@
 
-### Hi there 👋, I am a Blockchain | Ethereum | Solana | token | coin Expert. 
+### Hi there 👋, I am a Blockchain | Ethereum | Solana | DEFI | DEX | DAO | Staking | P2E expert. 
 <h2>Rich experience in Web Development</h2>
 
 - 🔭 I will be always with you.
