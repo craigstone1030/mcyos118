@@ -1,6 +1,6 @@
 
-### Hi there 👋, I am a Blockchain | Ethereum | Solana | DEFI | DEX | DAO | Staking | P2E expert. 
-<h2>Rich experience in Web Development</h2>
+### Hi there 👋, I am a seasoned web full stack & Blockchain expert.
+<h2>Rich experience in Web & blockchain development. </h2>
 
 - 🔭 I will be always with you.
 - 🌱 Passionate about development and coding.
