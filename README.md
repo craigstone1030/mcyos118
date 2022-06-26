@@ -1,6 +1,7 @@
 
 ### Hi there 👋, I am a seasoned web full stack & Blockchain expert.
-- 🚀 My Skills:<br>
+- 🚀 My Skills:
+ <br><br>
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
   ![Vue](https://img.shields.io/badge/-VueJS-4FC08D?logo=Vue.js&style=plastic&logoColor=white)
