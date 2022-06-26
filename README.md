@@ -27,7 +27,8 @@
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=Bitbucket&style=plastic)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-
+##
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mcyos118&theme=dark&background=000000)](https://git.io/streak-stats) 
 ##
 
 <div align=center>
