@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I am a seasoned web full stack & Blockchain expert.
-<a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
+<a target="blank" href="https://profile-counter.glitch.me/mcyos118/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a>
 
 - 🚀 My Skills:
  <br><br>
